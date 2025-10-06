@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nahendra kishor</h1>
+<h1 align="center">Hi 👋, I'm Nagendra kishor</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishor-maker&label=Profile%20views&color=0e75b6&style=flat" alt="kishor-maker" /> </p>
